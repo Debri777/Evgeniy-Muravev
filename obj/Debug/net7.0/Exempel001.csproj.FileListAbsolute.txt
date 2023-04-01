@@ -1,0 +1,15 @@
+C:\Scool\C#_Zanyatiya\Exemple\Exempel001\bin\Debug\net7.0\Exempel001.exe
+C:\Scool\C#_Zanyatiya\Exemple\Exempel001\bin\Debug\net7.0\Exempel001.deps.json
+C:\Scool\C#_Zanyatiya\Exemple\Exempel001\bin\Debug\net7.0\Exempel001.runtimeconfig.json
+C:\Scool\C#_Zanyatiya\Exemple\Exempel001\bin\Debug\net7.0\Exempel001.dll
+C:\Scool\C#_Zanyatiya\Exemple\Exempel001\bin\Debug\net7.0\Exempel001.pdb
+C:\Scool\C#_Zanyatiya\Exemple\Exempel001\obj\Debug\net7.0\Exempel001.csproj.AssemblyReference.cache
+C:\Scool\C#_Zanyatiya\Exemple\Exempel001\obj\Debug\net7.0\Exempel001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Scool\C#_Zanyatiya\Exemple\Exempel001\obj\Debug\net7.0\Exempel001.AssemblyInfoInputs.cache
+C:\Scool\C#_Zanyatiya\Exemple\Exempel001\obj\Debug\net7.0\Exempel001.AssemblyInfo.cs
+C:\Scool\C#_Zanyatiya\Exemple\Exempel001\obj\Debug\net7.0\Exempel001.csproj.CoreCompileInputs.cache
+C:\Scool\C#_Zanyatiya\Exemple\Exempel001\obj\Debug\net7.0\Exempel001.dll
+C:\Scool\C#_Zanyatiya\Exemple\Exempel001\obj\Debug\net7.0\refint\Exempel001.dll
+C:\Scool\C#_Zanyatiya\Exemple\Exempel001\obj\Debug\net7.0\Exempel001.pdb
+C:\Scool\C#_Zanyatiya\Exemple\Exempel001\obj\Debug\net7.0\Exempel001.genruntimeconfig.cache
+C:\Scool\C#_Zanyatiya\Exemple\Exempel001\obj\Debug\net7.0\ref\Exempel001.dll
